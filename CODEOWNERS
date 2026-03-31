@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @katerynakotliarova
+/src/backend/database.py      @katerynakotliarova
+/src/backend/routers/auth.py  @katerynakotliarova
+
+# Frontend
+/src/static/   @katerynakotliarova
